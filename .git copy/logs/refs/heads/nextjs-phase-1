@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 90268f717c90ae292258d2047297fb1446812959 Marko Tintor <marko.tintor.18@singimail.rs> 1760713483 +0200	branch: Created from HEAD
+90268f717c90ae292258d2047297fb1446812959 8e6339ccd61d08436d12353cc849aeda69178a6f Marko Tintor <marko.tintor.18@singimail.rs> 1760725057 +0200	commit: added header
+8e6339ccd61d08436d12353cc849aeda69178a6f 6ac680777d924174b7dcb451a86c34d8eb654110 Marko Tintor <marko.tintor.18@singimail.rs> 1760725207 +0200	commit: added footer
+6ac680777d924174b7dcb451a86c34d8eb654110 83ef2f020ca056ac3e4c9d42adf20e93d23499cd Marko Tintor <marko.tintor.18@singimail.rs> 1760725666 +0200	commit: added together footer header and container
+83ef2f020ca056ac3e4c9d42adf20e93d23499cd f17eb4fa73f61a4ce86c1b50f71cc85fb61a2a90 Marko Tintor <marko.tintor.18@singimail.rs> 1760725994 +0200	commit: added leaderboards page
+f17eb4fa73f61a4ce86c1b50f71cc85fb61a2a90 c0d443b736e88e9031f869fb2792ffe2183299d9 Marko Tintor <marko.tintor.18@singimail.rs> 1760727816 +0200	commit: added pages
+c0d443b736e88e9031f869fb2792ffe2183299d9 268095e76f2df1288b8b4f3ba214f2333c77eb57 Marko Tintor <marko.tintor.18@singimail.rs> 1760734184 +0200	commit: added inter and tailwind
